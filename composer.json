@@ -1,0 +1,21 @@
+{
+  "name": "jkliru/rulang-utils",
+  "description": "Russian language utilities",
+  "type": "library",
+  "require": {
+    "php": ">=7.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Cheglakov",
+      "email": "admin@jkli.ru"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "RuLangUtils\\": "src/"
+    }
+  }
+}
